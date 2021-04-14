@@ -8,11 +8,11 @@
 ## I'm a DevOps Engineer, Developer and a Linux Enthusiast !
 
 - :heart: Linux and :handshake: Open Source Projects
-- 🔭 I’m currently working on [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns)
-- 🌱 I’m currently learning Azure services.
-- 👯 I’m looking to contribute to Open Source projects
-- :zap: I love teaching, travelling and watching movies
-- 🥅 2021 Goals: Learn Terraform and GCP.
+- 🔭 I’m currently working on [easyawscli](https://github.com/navilg/easyawscli)
+- 🌱 I’m currently learning GUI with Python and GCP.
+- 👯 I’m looking to contribute to Open Source projects.
+- :zap: I love teaching, travelling, binge-coding and watching movies.
+- 🥅 2021 Goals: Learn Terraform and GCP services.
 
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
