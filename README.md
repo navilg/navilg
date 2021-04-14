@@ -8,7 +8,7 @@
 ## I'm a DevOps Engineer, Developer and a Linux Enthusiast !
 
 - :heart: Linux and :handshake: Open Source Projects
-- 🔭 I’m currently working on [easyawscli](https://github.com/navilg/easyawscli)
+- 🔭 I’m currently working on [easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
 - 🌱 I’m currently learning GUI with Python and GCP.
 - 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
@@ -44,6 +44,8 @@
 [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />](https://www.ansible.com)
 [<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />](https://jenkins.io)
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />](https://aws.amazon.com/)
+[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />](https://azure.microsoft.com/)
+[<img align="left" alt="GCP" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />](https://cloud.google.com/)
 
 <!--
 [<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />](https://atom.io)
