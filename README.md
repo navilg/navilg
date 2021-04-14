@@ -8,7 +8,7 @@
 ## I'm a DevOps Engineer, Developer and a Linux Enthusiast !
 
 - :heart: Linux and :handshake: Open Source Projects
-- 🔭 I’m currently working on [easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
+- 🔭 I’m currently working on [Easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
 - 🌱 I’m currently learning GUI with Python and GCP.
 - 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
