@@ -9,7 +9,7 @@
 
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 I’m currently working on [Easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
-- 🌱 I’m currently learning GUI with Python and GCP.
+- 🌱 I’m currently learning GCP and GUI with Python.
 - 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
 - 🥅 2021 Goals: Learn Terraform and Get certified as Kubernetes Administrator.
