@@ -36,7 +36,7 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://kubernetes.io/)
-[<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="Helm" width="26px" src="https://avatars.githubusercontent.com/u/15859888?s=200&v=4" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3.org/TR/html52)
 [<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://isocpp.org/)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
@@ -61,6 +61,7 @@
 
  <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navilg&hide=TeX&layout=compact)
 
 </br>
 </br>
