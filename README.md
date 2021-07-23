@@ -61,8 +61,6 @@
 
  <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navilg&hide=TeX&layout=compact)
-
 </br>
 </br>
 </br>
