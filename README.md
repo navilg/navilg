@@ -69,8 +69,6 @@
 </br>
 </br>
 
-### :gear: Top used languages
-
 <img align="left" alt="navilg's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=navilg&count=6&fork=false" />
 
 </br>
