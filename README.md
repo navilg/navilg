@@ -9,7 +9,7 @@
 
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 I’m currently working on [Easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
-- 🌱 I’m currently learning GUI with Python and GCP.
+- 🌱 I’m currently learning GCP and GUI with Python.
 - 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
 - 🥅 2021 Goals: Learn Terraform and Get certified as Kubernetes Administrator.
@@ -36,11 +36,9 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://kubernetes.io/)
-[<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3.org/TR/html52)
-[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://isocpp.org/)
+[<img align="left" alt="Helm" width="26px" src="https://avatars.githubusercontent.com/u/15859888?s=200&v=4" />](https://helm.sh/)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
+[<img align="left" alt="GitLab" width="26px" src="https://about.gitlab.com/images/press/press-kit-icon.svg" />](https://about.gitlab.com)
 [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />](https://www.ansible.com)
 [<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />](https://jenkins.io)
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />](https://aws.amazon.com/)
@@ -59,8 +57,19 @@
 
 ### :zap: Github Stats
 
- <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+ <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true" />
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<img align="left" alt="navilg's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=navilg&count=6&fork=false" />
 
 </br>
 </br>
