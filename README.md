@@ -69,7 +69,7 @@
 </br>
 </br>
 
-<img align="left" alt="navilg's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=navilg&count=6&fork=false" />
+<img align="left" alt="navilg's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=navilg&count=10&fork=false" />
 
 </br>
 </br>
