@@ -57,7 +57,19 @@
 
 ### :zap: Github Stats
 
- <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+ <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true" />
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<img align="left" alt="navilg's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=navilg&count=6&fork=false" />
 
 </br>
 </br>
