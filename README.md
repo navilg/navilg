@@ -13,11 +13,11 @@
 - 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
 - 🥅 2021 Goals: Learn Terraform and Get certified as Kubernetes Administrator.
-
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
 [comment]: <> (- 🥅 2020 Goals: Learn new programming & speaking language. )
 -->
+
 ### :handshake: Connect with me:
 
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
@@ -28,6 +28,12 @@
 [comment]: <> ([<img align="left" alt="Navratan Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram])
 
 <br />
+
+### :1st_place_medal: Certifications and Badges
+
+[<img align="left" alt="CKA: Certified Kubernetes Administrator" width="75px" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"/>](https://www.credly.com/badges/97a58602-5d58-41d1-8214-cc73dcbabc0c/public_url)
+
+<br /><br /><br />
 
 ### :gear: Languages and Tools:
 
