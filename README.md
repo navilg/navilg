@@ -9,7 +9,7 @@
 
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 I’m currently working on [Easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
-- 🌱 I’m currently learning AWS DevOps service.
+- 🌱 I’m currently learning AWS DevOps.
 - 👯 I’m looking to contribute in Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
 - 🥅 2022 Goals: Learn Golang and Get certified as AWS Certified DevOps Engineer - Professional.
@@ -88,17 +88,13 @@
 </br>
 </br>
 
-### 📺 Latest YouTube Videos
+### 📰 Latest Tech articles
 
-<!-- YOUTUBE:START -->
-- [Transfer files using SFTP | Secure File Transfer Protcol | Linux](https://www.youtube.com/watch?v=7COeg4sdrSM)
-- [Make sudo ask for root password instead of logged-in user's password | ubuntu | Linux Shots](https://www.youtube.com/watch?v=5unYu5YG4mA)
-- [Schedule Tasks using Cron Table | Crontab Explained | Linux](https://www.youtube.com/watch?v=OwJC9V1PtpA)
-- [Setup Free VPN with AWS Free Tier | OpenVPN Server](https://www.youtube.com/watch?v=f12xiPkQnlA)
-- [Mount Server's file system onto local desktop/system | SSHFS | GUI with Linux Server | Linux Shots](https://www.youtube.com/watch?v=x7xA5sdUVpQ)
-<!-- YOUTUBE:END -->
+<!-- MEDIUM-POST:START -->
 
-➡️ [more videos...][youtube]
+<!-- MEDIUM-POST:END -->
+
+➡️ [more articles...][medium]
 
 ---
 

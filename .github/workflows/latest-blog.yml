@@ -1,0 +1,19 @@
+name: Latest Medium post
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ master, preview, development ]
+
+jobs:
+  update-readme-with-medium-post:
+    name: Update this repo's README with latest articles from medium
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-POST"
+          feed_list: "https://medium.com/feed/linux-shots"
