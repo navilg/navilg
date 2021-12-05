@@ -91,7 +91,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
-
+- [Spin-up a lightweight Kubernetes cluster on Linux with K3s, MetalLB and Nginx Ingress](https://medium.com/linux-shots/spin-up-a-lightweight-kubernetes-cluster-on-linux-with-k3s-metallb-and-nginx-ingress-167d98f3583d?source=rss----4f86df82889f---4)
+- [Portainer — Manage Docker platform with GUI/WUI dashboard](https://medium.com/linux-shots/portainer-manage-docker-platform-with-gui-wui-dashboard-2ed7cec0f50b?source=rss----4f86df82889f---4)
+- [Container &lpar;Docker&rpar; image vulnerability scan using Anchore](https://medium.com/linux-shots/container-docker-image-vulnerability-scan-using-anchore-b3a3a36bad9a?source=rss----4f86df82889f---4)
+- [Setup Your Private VPN with WireGuard](https://medium.com/linux-shots/setup-private-vpn-with-wireguard-b998047ac88?source=rss----4f86df82889f---4)
+- [Dynamic DNS with GoDaddy](https://medium.com/linux-shots/dynamic-dns-with-godaddy-1df2cbe4585a?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
