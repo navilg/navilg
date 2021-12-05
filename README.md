@@ -1,4 +1,4 @@
-### Hi there, I'm [Navratan Gupta][website] 👋
+### Hi there, I'm [Navratan Lal Gupta][website] 👋
 
 [![Website](https://img.shields.io/website?label=navratangupta.in&style=for-the-badge&url=https%3A%2F%2Fnavratangupta.in)](https://navratangupta.in)
 [![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -9,10 +9,10 @@
 
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 I’m currently working on [Easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
-- 🌱 I’m currently learning GCP and GUI with Python.
-- 👯 I’m looking to contribute to Open Source projects.
+- 🌱 I’m currently learning AWS DevOps service.
+- 👯 I’m looking to contribute in Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
-- 🥅 2021 Goals: Learn Terraform and Get certified as Kubernetes Administrator.
+- 🥅 2022 Goals: Learn Golang and Get certified as AWS Certified DevOps Engineer - Professional.
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
 [comment]: <> (- 🥅 2020 Goals: Learn new programming & speaking language. )
@@ -21,11 +21,11 @@
 ### :handshake: Connect with me:
 
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Linux Shots | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Navratan Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Navratan Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Linux Shots | Medium Tech Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/medium.svg" />][Medium]
+[<img align="left" alt="Navratan Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Navratan Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/linkedin.svg" />][linkedin]
 
-[comment]: <> ([<img align="left" alt="Navratan Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram])
+[comment]: <> ([<img align="left" alt="Navratan Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/instagram.svg" />][instagram])
 
 <br />
 
@@ -113,7 +113,7 @@
 
 [website]: https://github.com/navilg
 [twitter]: https://twitter.com/navratan_gupta
-[youtube]: https://www.youtube.com/channel/UCd6Y8iqpvXem-AzRjTgQNrA
+[medium]: https://medium.com/linux-shots
 [linkedin]: https://in.linkedin.com/in/navratan-gupta
 [webdevplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
 [jsplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
