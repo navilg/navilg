@@ -33,6 +33,8 @@
 
 [<img align="left" alt="CKA: Certified Kubernetes Administrator" width="75px" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"/>](https://www.credly.com/badges/97a58602-5d58-41d1-8214-cc73dcbabc0c/public_url)
 
+[<img align="left" alt="SAA-C02: AWS Certified Solution Architect - Associate" width="75px" src="https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"/>](https://www.credly.com/badges/a653f9b5-0b2e-434d-b248-7579fe7df41f/public_url)
+
 <br /><br /><br />
 
 ### :gear: Languages and Tools:
