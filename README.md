@@ -8,7 +8,7 @@
 ## I'm a DevOps Engineer, Developer and a Linux Enthusiast !
 
 - :heart: Linux and :handshake: Open Source Projects
-- 🔭 I’m currently working on [Easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
+- 🔭 I’m currently working on **SafeCloudStore**, a zero knowledge encryption tool to store file securely in cloud.
 - 🌱 I’m currently learning AWS DevOps.
 - 👯 I’m looking to contribute in Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
