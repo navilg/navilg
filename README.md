@@ -8,7 +8,7 @@
 ## I'm a DevOps Engineer, Developer and a Linux Enthusiast !
 
 - :heart: Linux and :handshake: Open Source Projects
-- 🔭 I’m currently working on [Easy AWS CLI (easyawscli)](https://github.com/navilg/easyawscli) tool.
+- 🔭 I’m currently working on **SafeCloudStore**, a zero knowledge encryption tool to store file securely in cloud.
 - 🌱 I’m currently learning AWS DevOps.
 - 👯 I’m looking to contribute in Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
@@ -94,11 +94,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
+- [Deploy Applications on Kubernetes Cluster with GitLab CI/CD Tunnel](https://medium.com/linux-shots/deploy-applications-on-kubernetes-cluster-with-gitlab-ci-cd-tunnel-2001fe2289c4?source=rss----4f86df82889f---4)
 - [Secure communication between microservices in Kubernetes using Service Mesh](https://medium.com/linux-shots/securing-communications-between-microservices-in-kubernetes-using-service-mesh-45761e1cb426?source=rss----4f86df82889f---4)
 - [Spin-up a lightweight Kubernetes cluster on Linux with K3s, MetalLB and Nginx Ingress](https://medium.com/linux-shots/spin-up-a-lightweight-kubernetes-cluster-on-linux-with-k3s-metallb-and-nginx-ingress-167d98f3583d?source=rss----4f86df82889f---4)
 - [Portainer — Manage Docker platform with GUI/WUI dashboard](https://medium.com/linux-shots/portainer-manage-docker-platform-with-gui-wui-dashboard-2ed7cec0f50b?source=rss----4f86df82889f---4)
 - [Container &lpar;Docker&rpar; image vulnerability scan using Anchore](https://medium.com/linux-shots/container-docker-image-vulnerability-scan-using-anchore-b3a3a36bad9a?source=rss----4f86df82889f---4)
-- [Setup Your Private VPN with WireGuard](https://medium.com/linux-shots/setup-private-vpn-with-wireguard-b998047ac88?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
