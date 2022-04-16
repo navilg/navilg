@@ -108,6 +108,11 @@
 </br>
 </br>
 
+### :coffee: Buy me a coffee
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/linuxshots)
+
+
 <!--
 ### :zap: Languages Used:
 
@@ -118,7 +123,3 @@
 [twitter]: https://twitter.com/navratan_gupta
 [medium]: https://medium.com/linux-shots
 [linkedin]: https://in.linkedin.com/in/navratan-gupta
-[webdevplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
-[jsplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
-[cssplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
-[reactplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
