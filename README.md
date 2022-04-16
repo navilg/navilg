@@ -94,11 +94,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
+- [Kubernetes ingress as reverse proxy to Application running outside cluster](https://medium.com/linux-shots/kubernetes-ingress-as-reverse-proxy-to-application-running-outside-cluster-206b6003f9cb?source=rss----4f86df82889f---4)
+- [Docker client to enable Dynamic DNS with Namecheap](https://medium.com/linux-shots/docker-client-to-enable-dynamic-dns-with-namecheap-769b34c8cf86?source=rss----4f86df82889f---4)
 - [Deploy Applications on Kubernetes Cluster with GitLab CI/CD Tunnel](https://medium.com/linux-shots/deploy-applications-on-kubernetes-cluster-with-gitlab-ci-cd-tunnel-2001fe2289c4?source=rss----4f86df82889f---4)
 - [Secure communication between microservices in Kubernetes using Service Mesh](https://medium.com/linux-shots/securing-communications-between-microservices-in-kubernetes-using-service-mesh-45761e1cb426?source=rss----4f86df82889f---4)
 - [Spin-up a lightweight Kubernetes cluster on Linux with K3s, MetalLB and Nginx Ingress](https://medium.com/linux-shots/spin-up-a-lightweight-kubernetes-cluster-on-linux-with-k3s-metallb-and-nginx-ingress-167d98f3583d?source=rss----4f86df82889f---4)
-- [Portainer — Manage Docker platform with GUI/WUI dashboard](https://medium.com/linux-shots/portainer-manage-docker-platform-with-gui-wui-dashboard-2ed7cec0f50b?source=rss----4f86df82889f---4)
-- [Container &lpar;Docker&rpar; image vulnerability scan using Anchore](https://medium.com/linux-shots/container-docker-image-vulnerability-scan-using-anchore-b3a3a36bad9a?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
@@ -107,6 +107,9 @@
 
 </br>
 </br>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/linuxshots)
+
 
 <!--
 ### :zap: Languages Used:
@@ -118,7 +121,3 @@
 [twitter]: https://twitter.com/navratan_gupta
 [medium]: https://medium.com/linux-shots
 [linkedin]: https://in.linkedin.com/in/navratan-gupta
-[webdevplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
-[jsplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
-[cssplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
-[reactplaylist]: https://www.youtube.com/playlist?list=UCd6Y8iqpvXem-AzRjTgQNrA
