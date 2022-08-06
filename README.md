@@ -94,11 +94,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
+- [Self-host media stack &lpar;Jellyfin+Radarr+Sonarr+Jackett+Transmission&rpar;](https://medium.com/linux-shots/self-host-media-stack-jellyfin-radarr-sonarr-jackett-transmission-3e6a0adf716e?source=rss----4f86df82889f---4)
 - [ConfigMap/Secret Reloader — Automatically add reload data from ConfigMap/Secret to deployments](https://medium.com/linux-shots/configmap-secret-reloader-automatically-add-reload-data-from-configmap-secret-to-deployments-dc245e06b92c?source=rss----4f86df82889f---4)
 - [New VPN regulations in India, is it a threat to users’​ privacy ?](https://medium.com/linux-shots/new-vpn-regulations-in-india-is-it-a-threat-to-users-privacy-745f643fd513?source=rss----4f86df82889f---4)
 - [Helm chart repository on Sonatype Nexus OSS](https://medium.com/linux-shots/helm-chart-repository-on-sonatype-nexus-oss-fcf6f7c7498e?source=rss----4f86df82889f---4)
 - [Docker Desktop for Linux Desktops](https://medium.com/linux-shots/docker-desktop-for-linux-desktops-63d78ba91e53?source=rss----4f86df82889f---4)
-- [Debug Kubernetes Pods Using Ephemeral Container](https://medium.com/linux-shots/debug-kubernetes-pods-using-ephemeral-container-f01378243ff?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
