@@ -94,11 +94,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
+- [GitOps on Docker using Portainer](https://medium.com/linux-shots/gitops-on-docker-using-portainer-8712ba7d38c9?source=rss----4f86df82889f---4)
 - [Host your own email with your domain using Zoho mail](https://medium.com/linux-shots/host-your-own-email-with-your-domain-using-zoho-mail-90cfcf1cdb55?source=rss----4f86df82889f---4)
 - [Put a docker container behind VPN](https://medium.com/linux-shots/put-a-docker-container-behind-vpn-fdc0e32c9ca5?source=rss----4f86df82889f---4)
 - [Self-host media stack &lpar;Jellyfin+Radarr+Sonarr+Jackett+Transmission&rpar;](https://medium.com/linux-shots/self-host-media-stack-jellyfin-radarr-sonarr-jackett-transmission-3e6a0adf716e?source=rss----4f86df82889f---4)
 - [ConfigMap/Secret Reloader — Automatically add reload data from ConfigMap/Secret to deployments](https://medium.com/linux-shots/configmap-secret-reloader-automatically-add-reload-data-from-configmap-secret-to-deployments-dc245e06b92c?source=rss----4f86df82889f---4)
-- [New VPN regulations in India, is it a threat to users’​ privacy ?](https://medium.com/linux-shots/new-vpn-regulations-in-india-is-it-a-threat-to-users-privacy-745f643fd513?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
