@@ -94,11 +94,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
-- [Kubernetes ingress as reverse proxy to Application running outside cluster](https://medium.com/linux-shots/kubernetes-ingress-as-reverse-proxy-to-application-running-outside-cluster-206b6003f9cb?source=rss----4f86df82889f---4)
-- [Docker client to enable Dynamic DNS with Namecheap](https://medium.com/linux-shots/docker-client-to-enable-dynamic-dns-with-namecheap-769b34c8cf86?source=rss----4f86df82889f---4)
-- [Deploy Applications on Kubernetes Cluster with GitLab CI/CD Tunnel](https://medium.com/linux-shots/deploy-applications-on-kubernetes-cluster-with-gitlab-ci-cd-tunnel-2001fe2289c4?source=rss----4f86df82889f---4)
-- [Secure communication between microservices in Kubernetes using Service Mesh](https://medium.com/linux-shots/securing-communications-between-microservices-in-kubernetes-using-service-mesh-45761e1cb426?source=rss----4f86df82889f---4)
-- [Spin-up a lightweight Kubernetes cluster on Linux with K3s, MetalLB and Nginx Ingress](https://medium.com/linux-shots/spin-up-a-lightweight-kubernetes-cluster-on-linux-with-k3s-metallb-and-nginx-ingress-167d98f3583d?source=rss----4f86df82889f---4)
+- [GitOps on Docker using Portainer](https://medium.com/linux-shots/gitops-on-docker-using-portainer-8712ba7d38c9?source=rss----4f86df82889f---4)
+- [Host your own email with your domain using Zoho mail](https://medium.com/linux-shots/host-your-own-email-with-your-domain-using-zoho-mail-90cfcf1cdb55?source=rss----4f86df82889f---4)
+- [Put a docker container behind VPN](https://medium.com/linux-shots/put-a-docker-container-behind-vpn-fdc0e32c9ca5?source=rss----4f86df82889f---4)
+- [Self-host media stack &lpar;Jellyfin+Radarr+Sonarr+Jackett+Transmission&rpar;](https://medium.com/linux-shots/self-host-media-stack-jellyfin-radarr-sonarr-jackett-transmission-3e6a0adf716e?source=rss----4f86df82889f---4)
+- [ConfigMap/Secret Reloader — Automatically add reload data from ConfigMap/Secret to deployments](https://medium.com/linux-shots/configmap-secret-reloader-automatically-add-reload-data-from-configmap-secret-to-deployments-dc245e06b92c?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
