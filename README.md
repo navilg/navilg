@@ -95,11 +95,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
+- [Use PostgreSQL database as backend storage for helm](https://medium.com/linux-shots/use-postgresql-as-backend-storage-for-helm-de407cd9c43?source=rss----4f86df82889f---4)
 - [Point in time Snapshot of Persistent Volume Data with Kubernetes’ Volume Snapshots](https://medium.com/linux-shots/point-in-time-snapshot-of-persistent-volume-data-with-kubernetes-volume-snapshots-abfafc210802?source=rss----4f86df82889f---4)
 - [Find Deprecated API Resources used in a Kubernetes Cluster](https://medium.com/linux-shots/find-deprecated-api-resources-used-in-a-kubernetes-cluster-44756c1126c8?source=rss----4f86df82889f---4)
 - [GitOps on Docker using Portainer](https://medium.com/linux-shots/gitops-on-docker-using-portainer-8712ba7d38c9?source=rss----4f86df82889f---4)
 - [Host your own email with your domain using Zoho mail](https://medium.com/linux-shots/host-your-own-email-with-your-domain-using-zoho-mail-90cfcf1cdb55?source=rss----4f86df82889f---4)
-- [Put a docker container behind VPN](https://medium.com/linux-shots/put-a-docker-container-behind-vpn-fdc0e32c9ca5?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
