@@ -95,11 +95,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
+- [Sync Kubernetes secrets with cloud-native secret managers](https://medium.com/linux-shots/sync-kubernetes-secrets-with-cloud-native-secret-managers-e24095472a24?source=rss----4f86df82889f---4)
+- [Backup Kubernetes using Velero and CSI volume snapshot](https://medium.com/linux-shots/backup-kubernetes-using-velero-and-csi-volume-snapshot-4155d4e32e5d?source=rss----4f86df82889f---4)
 - [Speed up pod startup by re-using image layers from other nodes with Spegel](https://medium.com/linux-shots/speed-up-pod-startup-by-re-using-image-layers-from-other-nodes-with-spegel-817f88d40a92?source=rss----4f86df82889f---4)
 - [Use K8senv to manage multiple versions of Kubernetes’ clients &lpar;kubectl/velero/helm&rpar; on same jump…](https://medium.com/linux-shots/use-k8senv-to-manage-multiple-versions-of-kubernetes-clients-kubectl-velero-helm-on-same-jump-2e7954e489da?source=rss----4f86df82889f---4)
 - [Setup Telegram bot to get alert notifications](https://medium.com/linux-shots/setup-telegram-bot-to-get-alert-notifications-90be7da4444?source=rss----4f86df82889f---4)
-- [Use PostgreSQL database as backend storage for helm](https://medium.com/linux-shots/use-postgresql-as-backend-storage-for-helm-de407cd9c43?source=rss----4f86df82889f---4)
-- [Point in time Snapshot of Persistent Volume Data with Kubernetes’ Volume Snapshots](https://medium.com/linux-shots/point-in-time-snapshot-of-persistent-volume-data-with-kubernetes-volume-snapshots-abfafc210802?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
