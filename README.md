@@ -9,10 +9,10 @@
 
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 Follow me on Medium for technical articles - [Linux Shots](https://navratangupta.medium.com/).
-- 🌱 I’m currently learning Google Cloud Platform.
-- 👯 I’m looking to contribute in Open Source projects.
+<!-- 🌱 I’m currently learning GCP.-->
+- 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
-- 🥅 2023 Goals: Learn GCP and Get certified as Terraform Associate.
+- 🥅 2024 Goals: Get certified as CKS.
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
 [comment]: <> (- 🥅 2020 Goals: Learn new programming & speaking language. )
