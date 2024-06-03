@@ -95,11 +95,11 @@
 ### 🕮 Latest Tech articles
 
 <!-- MEDIUM-POST:START -->
+- [Encryption of terraform state using OpenTofu](https://linuxshots.navratangupta.in/encryption-of-terraform-state-using-opentofu-04fd9dd2f562?source=rss----4f86df82889f---4)
 - [Spin-up a Kubernetes cluster on personal laptop](https://linuxshots.navratangupta.in/spin-up-a-kubernetes-cluster-on-personal-laptop-97a511e28564?source=rss----4f86df82889f---4)
 - [Migrate PVC from one storage class to another](https://linuxshots.navratangupta.in/migrate-pvc-from-one-storage-class-to-another-195f1c38e019?source=rss----4f86df82889f---4)
 - [Sync Kubernetes secrets with cloud-native secret managers](https://linuxshots.navratangupta.in/sync-kubernetes-secrets-with-cloud-native-secret-managers-e24095472a24?source=rss----4f86df82889f---4)
 - [Backup Kubernetes using Velero and CSI volume snapshot](https://linuxshots.navratangupta.in/backup-kubernetes-using-velero-and-csi-volume-snapshot-4155d4e32e5d?source=rss----4f86df82889f---4)
-- [Speed up pod startup by re-using image layers from other nodes with Spegel](https://linuxshots.navratangupta.in/speed-up-pod-startup-by-re-using-image-layers-from-other-nodes-with-spegel-817f88d40a92?source=rss----4f86df82889f---4)
 <!-- MEDIUM-POST:END -->
 
 ➡️ [more articles...][medium]
