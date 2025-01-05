@@ -5,13 +5,13 @@
 <!--[![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")][linkedin]-->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/navratan_gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavilg&screen_name=navratan_gupta) -->
 
-## I'm a DevOps Engineer, Developer and a Linux Enthusiast !
+## I'm a DevOps/SR Engineer, Developer and a Linux Enthusiast!
 
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 Follow me on Medium for technical articles - [Linux Shots](https://navratangupta.medium.com/).
-<!-- 🌱 I’m currently learning GCP.-->
 - :zap: I love teaching, travelling, binge-coding and watching movies.
 - 🥅 2025 Goals: Get certified as Google Cloud Professional Cloud Architect and Learn AI.
+<!-- 🌱 I’m currently learning GCP.-->
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
 [comment]: <> (- 🥅 2020 Goals: Learn new programming & speaking language. )
@@ -19,10 +19,10 @@
 
 ### :handshake: Connect with me:
 
+[<img align="left" alt="Navratan Gupta | LinkedIn" width="22px" src="img/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="img/github.png" />][website]
 [<img align="left" alt="Linux Shots | Medium Tech Blog" width="22px" src="img/medium.svg" />][Medium]
 <!-- [<img align="left" alt="Navratan Gupta | Twitter" width="22px" src="img/twitter.svg" />][twitter] -->
-[<img align="left" alt="Navratan Gupta | LinkedIn" width="22px" src="img/linkedin.svg" />][linkedin]
 
 [comment]: <> ([<img align="left" alt="Navratan Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/instagram.svg" />][instagram])
 
@@ -68,7 +68,7 @@
 
 ### :zap: Github Stats
 
- <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true" />
+ <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats-navilg.vercel.app/api?username=navilg&show_icons=tue&hide_border=true&count_private=true&commits_year=2025" />
 
 </br>
 </br>
