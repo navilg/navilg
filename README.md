@@ -10,9 +10,8 @@
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 Follow me on Medium for technical articles - [Linux Shots](https://navratangupta.medium.com/).
 <!-- 🌱 I’m currently learning GCP.-->
-- 👯 I’m looking to contribute to Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
-- 🥅 2024 Goals: Get certified as CKS.
+- 🥅 2025 Goals: Get certified as Google Cloud Professional Cloud Architect and Learn AI.
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
 [comment]: <> (- 🥅 2020 Goals: Learn new programming & speaking language. )
@@ -22,7 +21,7 @@
 
 [<img align="left" alt="GitHub" width="22px" src="img/github.png" />][website]
 [<img align="left" alt="Linux Shots | Medium Tech Blog" width="22px" src="img/medium.svg" />][Medium]
-[<img align="left" alt="Navratan Gupta | Twitter" width="22px" src="img/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="Navratan Gupta | Twitter" width="22px" src="img/twitter.svg" />][twitter] -->
 [<img align="left" alt="Navratan Gupta | LinkedIn" width="22px" src="img/linkedin.svg" />][linkedin]
 
 [comment]: <> ([<img align="left" alt="Navratan Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/instagram.svg" />][instagram])
@@ -39,21 +38,22 @@
 
 ### :gear: Languages and Tools:
 
+[<img align="left" alt="GCP" width="26px" src="img/gcp.png" />](https://cloud.google.com/)
+[<img align="left" alt="Kubernetes" width="26px" src="img/kubernetes.png" />](https://kubernetes.io/)
+[<img align="left" alt="Docker" width="26px" src="img/docker.png" />](https://www.docker.com)
+[<img align="left" alt="Terraform" width="26px" src="img/terraform.png" />](https://www.terraform.io/)
+[<img align="left" alt="Ansible" width="26px" src="img/ansible.png" />](https://www.ansible.com)
 [<img align="left" alt="BASH" width="26px" src="img/bash.png" />](https://www.gnu.org/software/bash)
 [<img align="left" alt="Python" width="26px" src="img/python.png" />](https://www.python.org/)
 [<img align="left" alt="Golang" width="26px" src="img/go.svg" />](https://go.dev/)
-[<img align="left" alt="Docker" width="26px" src="img/docker.png" />](https://www.docker.com)
 [<img align="left" alt="Git" width="26px" src="img/git.png" />](https://git-scm.com/)
-[<img align="left" alt="Kubernetes" width="26px" src="img/kubernetes.png" />](https://kubernetes.io/)
-[<img align="left" alt="Terraform" width="26px" src="img/terraform.png" />](https://www.terraform.io/)
 [<img align="left" alt="Helm" width="26px" src="img/helm.png" />](https://helm.sh/)
 <!-- [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL) -->
 [<img align="left" alt="GitLab" width="26px" src="img/gitlab.svg" />](https://about.gitlab.com)
-[<img align="left" alt="Ansible" width="26px" src="img/ansible.png" />](https://www.ansible.com)
 [<img align="left" alt="Jenkins" width="26px" src="img/jenkins.png" />](https://jenkins.io)
 [<img align="left" alt="AWS" width="26px" src="img/aws.png" />](https://aws.amazon.com/)
-[<img align="left" alt="Azure" width="26px" src="img/azure.png" />](https://azure.microsoft.com/)
-[<img align="left" alt="GCP" width="26px" src="img/gcp.png" />](https://cloud.google.com/)
+<!-- [<img align="left" alt="Azure" width="26px" src="img/azure.png" />](https://azure.microsoft.com/) -->
+
 
 <!--
 [<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />](https://atom.io)
@@ -119,6 +119,6 @@
 -->
 
 [website]: https://github.com/navilg
-[twitter]: https://twitter.com/navratan_gupta
+<!-- [twitter]: https://twitter.com/navratan_gupta -->
 [medium]: https://medium.com/linux-shots
 [linkedin]: https://in.linkedin.com/in/navratan-gupta
