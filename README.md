@@ -10,7 +10,7 @@
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 Follow me on Medium for technical articles - [Linux Shots](https://navratangupta.medium.com/).
 - :zap: I love teaching, travelling, binge-coding and watching movies.
-- 🥅 2025 Goals: Get certified as Google Cloud Professional Cloud Architect and Learn AI.
+- 🥅 2026 Goals: Learn LLM and Azure.
 <!-- 🌱 I’m currently learning GCP.-->
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
